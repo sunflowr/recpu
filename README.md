@@ -17,9 +17,11 @@ For documentation please visit https://sunflowr.github.io/re-303-px/
 
 ### Hardware
 
-In order to protect my work and to protect the investsments done by others to make the hardware real and available to you, the hardware design is currently not publicy available and only available under a non-commercial license. If you are intressted in manufacturing and/or distrubution, plesae contact me.
+In order to protect my work and most importantly to protect the investsments done by others to make the hardware real and available to you, the hardware design is currently not publicy available and only available under a non-commercial license. If you are intressted in manufacturing and/or distrubution, plesae contact me.
 
 Currently Paul Barker at [DinSync.info](http://www.dinsync.info/) / [RE-303](http://re-303.com/) is the only one granted rights of manufacturing.
+
+Please respect this wish.
 
 ### Software
 
@@ -30,7 +32,7 @@ Software is licensed under the Apache 2.0 License. See [LICENSE](LICENSE)
 - [Buy the hardware](https://shop.re-303.com/)
 - [Firmware Releases](https://github.com/sunflowr/recpu/releases) latest builds of the firmware and tools.
 - [PixieDust](https://github.com/sunflowr/pixiedust/releases) updating/backup and general tool for the project.
-- [PixieDust Online](http://sunflowr.github.io/pixiedust/) onlinve version of PixieDust.
+- [PixieDust Online](http://sunflowr.github.io/pixiedust/) online version of PixieDust.
 
 ## Special thanks
 
