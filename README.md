@@ -25,7 +25,7 @@ Please respect this wish.
 
 ### Software
 
-Software is licensed under the Apache 2.0 License. See [LICENSE](LICENSE)
+Software once released will be licensed under the Apache 2.0 License. See [LICENSE](LICENSE)
 
 ## Links
 
