@@ -11,8 +11,6 @@
 
 <!-- /TOC -->
 
-For documentation please visit https://sunflowr.github.io/re-303-px/
-
 ## License
 
 ### Hardware
