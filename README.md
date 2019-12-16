@@ -34,7 +34,7 @@ Software once released will be licensed under the Apache 2.0 License. See [LICEN
 
 ## Special thanks
 
-Much of the layout of build system and project layout is insipred by [Muatuable Instruments Github](https://github.com/pichenettes/eurorack) and Westlicht [PER|FORMER Github](https://github.com/westlicht/performer) excellent projects.
+Much of the layout of build system and project layout is insipred by [Mutable Instruments Github](https://github.com/pichenettes/eurorack) and [Westlicht PER|FORMER Github](https://github.com/westlicht/performer) excellent projects.
 
 Part of the RE-Emu code is inspired by work in [MAME](https://www.mamedev.org/)
 
